@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(180deg, #2b7296 0%, #758991 100%); 
+}
+.registro {
+  background: rgba(195, 231, 228, 0.48);
+  width: 40%;
+  height: 500px;
+  display: block;
+  margin: 50px 0px 0px 160px;
+  text-align: center;
+  border-radius: 5px;
+  
+}
+.caja {
+    text-align: center;
+    padding: 30px;
+}
+
