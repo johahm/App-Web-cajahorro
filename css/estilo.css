@@ -2,7 +2,7 @@ body {
     background: linear-gradient(180deg, #2b7296 0%, #758991 100%); 
 }
 .home {
-  background: url(/img/arbol.jpg);
+  background: url('arbol.jpg');
   width: 70%;
   height: 700px;
   display: block;
